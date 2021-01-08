@@ -1,0 +1,9 @@
+spec:
+  name: blog
+  static_sites:
+  - build_command: bundle exec jekyll build -d ./public
+    environment_slug: jekyll
+    git:
+      branch: master
+      repo_clone_url: https://github.com/erheme318/blog.git
+    name: blog
