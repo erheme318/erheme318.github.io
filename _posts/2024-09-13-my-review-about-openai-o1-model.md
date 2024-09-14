@@ -77,3 +77,11 @@ date: 2024-09-12 14:05 +0800
 ## Дүгнэлт
 
 Энэхүү **OpenAI o1** модел гаргаснаар (AI модел нарийн төвөгтэй бодлого даалгавруудыг төвөггүй гүйцэтгэдэг болж байгаа нь) эксперт хүний хийж чадах түвшинд хүрснийг харуулж байх шиг санагдлаа. Цаашид хүний бүтээмж 10x дахин нэмэгдэхээр барахгүй шинжлэх ухааны салбаруудад олон арван шинэ нээлт хийгдэх болов уу
+
+## Холбогдох линкүүд
+
+- [https://openai.com/index/introducing-openai-o1-preview/](https://openai.com/index/introducing-openai-o1-preview/)
+- [https://openai.com/index/learning-to-reason-with-llms/](https://openai.com/index/learning-to-reason-with-llms/)
+- [https://platform.openai.com/docs/guides/reasoning](https://platform.openai.com/docs/guides/reasoning)
+- [https://x.com/OpenAI/status/1834278217626317026](https://x.com/OpenAI/status/1834278217626317026)
+- [https://cookbook.openai.com/examples/o1/using_reasoning_for_data_validation](https://cookbook.openai.com/examples/o1/using_reasoning_for_data_validation)
