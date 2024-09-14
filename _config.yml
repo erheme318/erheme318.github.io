@@ -18,15 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "@erkhem"
+title: "Erkhembayar Gantulga"
 email: erkhem.gantulga@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  It's my personal blog
+  Technology entrepreneur, problem solver, full-stack engineer, amateur chess player, music lover
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: erheme318
-github_username:  erheme318
-
+url: "https://erkhem.org" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: erkhem_gantulga
+github_username:  erkhembayar-gantulga
+linkedin_username: erkhembayar-gantulga
 # Build settings
 theme: minima
 plugins:

@@ -1,6 +1,6 @@
 # Personal blog
 
-[https://erheme318.github.io/](https://erheme318.github.io/)
+[https://erkhem.org/](https://erkhem.org/)
 
 ## Deploying to the DO App Platform ##
 
